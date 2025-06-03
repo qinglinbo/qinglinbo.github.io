@@ -13,5 +13,6 @@ B.E., Electronic Information Science and Technology, Sichuan University, 1999-20
 
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Artificial Intelligence and Computer Vision, Multimedia Signal Processing, Image/Video Processing and Communication, Embedded Systems and Mechatronics.
+
 
