@@ -1,13 +1,5 @@
-- National Scholarship of Graduate Student, 2024.
+(1) ​​Linbo Qing (1/6);​​ Key Technologies and Applications of Intelligent Video Transmission Monitoring Based on Heterogeneous Networks, Sichuan Provincial People's Government, Science and Technology Progress Award, Other, 2024 (Linbo Qing; Haosong Gou; Lianze Teng; Chao Ren; Honggang Chen; Hui Li)
 
-- First-prize Scholarship of CUMT, 2024.
+(2) ​​Linbo Qing (1/5);​​ Key Technologies and Applications Research on Video Communication and Intelligent Analysis in Heterogeneous Communication Network Scenarios, China Institute of Communications, Science and Technology Award, Other, 2024 (Linbo Qing; Haosong Gou; Chao Ren; Honggang Chen; Hui Li)
 
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+(3) ​​Linbo Qing (1/1);​​ Reserve Candidate for Sichuan Province Academic and Technical Leader Program, Sichuan Provincial Department of Human Resources and Social Security, Talent Program, Other, 2024 (Linbo Qing)
