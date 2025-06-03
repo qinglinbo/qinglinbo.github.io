@@ -5,7 +5,7 @@
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-qing_lb[at]scu.edu.cn
+qing_lb@scu.edu.cn
 
 #### Education
 Ph.D., Communication and Information Systems, Sichuan University, 2003-2008.\
