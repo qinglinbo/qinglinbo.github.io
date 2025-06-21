@@ -56,5 +56,33 @@
 55.	Tao Li, Xiaohai He, Linbo Qing, Qizhi Teng, Honggang Chen (2018). An Iterative Framework of Cascaded Deblocking and Superresolution for Compressed Images.. IEEE Trans. Multim., 20, 1305-1320.
 56.	Maojiao Wang, Xiaohai He, Linbo Qing, Shuhua Xiong (2017). Tree-structured Bayesian compressive sensing via generalised inverse Gaussian distribution.. IET Signal Process., 11, 250-257.
 57.	Honggang Chen, Xiaohai He, Linbo Qing, Qizhi Teng (2017). Single Image Super-Resolution via Adaptive Transform-Based Nonlocal Self-Similarity Modeling and Learning-Based Gradient Regularization.. IEEE Trans. Multim., 19, 1702-1717.
+## Selected Patents
+1.	A Social Relationship Recognition Method Based on Multi-Level Feature Fusion [P]. Chinese Patent: 202011271118.X, 2023-04-07.
+2.	A Social Relationship Recognition Method Based on High-Order Graph Neural Networks [P]. Chinese Patent: 202010845651.6, 2023-04-28.
+3.	An Individual Emotion Recognition Method Integrating Facial Expressions and Postures [P]. Chinese Patent: 202010847665.1, 2022-03-11.
+4.	A Spatial Vitality Quantification Method Based on Crowd Clustering Trajectory Entropy [P]. Chinese Patent: 202010860956.4, 2023-07-11.
+5.	A Multi-Scale Park Evaluation Method Based on Review Texts [P]. Chinese Patent: 202010779410.6, 2023-04-07.
+6.	Super-Resolution Reconstruction of Raw Format Core Images [P]. Chinese Patent: 202010677545.1, 2023-04-11.
+7.	A Deep Neural Network-Based Natural Scene Text Detection Method Suitable for Dense Text [P]. Chinese Patent: 202010559882.0, 2023-04-18.
+8.	A Pain Intensity Assessment Method Based on Feature Fusion [P]. Chinese Patent: 202010034499.3, 2022-06-17.
+9.	An Urban Land Use Function Recognition Method Based on Remote Sensing Images and Point of Interest Data [P]. Chinese Patent: 202010033194.0, 2022-04-05.
+10.	A Multi-Pedestrian Tracking Method Based on Deep Learning [P]. Chinese Patent: 201911323035.8, 2022-07-26.
+11.	A Street Space Quality Quantification Method Based on Machine Learning [P]. Chinese Patent: 201910715096.2, 2022-06-07.
+12.	A Group Emotion Recognition Method Based on Motion Features [P]. Chinese Patent: 201910383943.X, 2022-07-01.
+13.	A Street Space Quality Quantification Method Based on Cross-Connected CNN+SVR [P]. Chinese Patent: 201910341553.6, 2022-08-02.
+14.	A Video Behavior Detection Method Based on Improved C3D [P]. Chinese Patent: 201910302041.9, 2022-09-02.
+15.	An Online Multi-Pedestrian Detection and Tracking Method for Complex Scenarios [P]. Chinese Patent: 201910218195.X, 2022-10-21.
+16.	A Pedestrian Vision Condition Survey and Analysis Method Based on Surveillance Video [P]. Chinese Patent: 201910034925.0, 2022-05-03.
+17.	An Emotion Recognition Method Based on BN-Inception Two-Stream Network [P]. Chinese Patent: 201810579049.5, 2022-06-03.
+18.	A Facial Sequence Expression Recognition Method Based on Deep Learning [P]. Chinese Patent: 201810587517.3, 2019-08-23.
+19.	A DVC Side Information Fusion Method Based on Optical Flow and Block Matching [P]. Chinese Patent: 201810563580.3, 2022-02-11.
+20.	A Fast Human Pose Estimation Method Based on Optical Flow [P]. Chinese Patent: 201810397371.6, 2020-10-27.
+21.	A Crowd Emotion Recognition Method Based on Deep Learning [P]. Chinese Patent: 201710552019.0, 2019-11-29.
+22.	A DVC-HEVC Video Transcoding Method Based on Key Frame Coding Unit Partitioning Patterns [P]. Chinese Patent: 201710259191.7, 2019-09-10.
+23.	A Wavelet Domain-Based Error Protection Method for Key Frame Loss in Distributed Video Coding [P]. Chinese Patent: 201611075342.5, 2019-05-03.
+24.	A DVC-HEVC Video Transcoding Method Based on Prediction Residuals [P]. Chinese Patent: 201610017623.9, 2018-09-04.
+25.	A Distributed Video Coding and Decoding Method Based on Wavelet Domain Residuals [P]. Chinese Patent: 201510982079.7, 2019-01-18.
+26.	A Wavelet Domain Distributed Multi-View Video Coding Based on Layered WZ Frames [P]. Chinese Patent: 201610428712.2, 2018-10-23.
+
 
 
