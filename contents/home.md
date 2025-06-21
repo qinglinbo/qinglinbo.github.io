@@ -5,8 +5,8 @@
 He currently serves as a Professor and Vice Dean of the College of Electronics and Information Engineering at Sichuan University, China.
 
 #### Contact Information
-Email: qing_lb@scu.edu.cn
-Phone: +86-28-85463466
+Email: qing_lb@scu.edu.cn\
+Phone: +86-28-85463466\
 Address: Room B501, Basic Teaching Experiment Building, Sichuan University (Wangjiang Campus), Chengdu, China
 
 #### Education
