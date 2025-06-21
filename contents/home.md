@@ -14,10 +14,10 @@ Ph.D., Communication and Information Systems, Sichuan University, 2003-2008.\
 B.E., Electronic Information Science and Technology, Sichuan University, 1999-2003.
 
 #### Academic Appointments
-Vice Dean, College of Electronics and Information Engineering, Sichuan University (2008–Present)
-Visiting Scholar:
-University of Missouri-Columbia, USA (2012–2013)
-Politecnico di Torino, Italy (2011–2012)
+Vice Dean, College of Electronics and Information Engineering, Sichuan University (2008–Present)\
+Visiting Scholar:\
+University of Missouri-Columbia, USA (2012–2013)\
+Politecnico di Torino, Italy (2011–2012)\
 University of Agder, Norway (2011)
 
 #### Research Interests
