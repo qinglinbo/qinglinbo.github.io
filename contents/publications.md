@@ -1,3 +1,4 @@
+## Slected Papers
 1.	Jianglan Huang, Lindong Li, Linbo Qing, Wang Tang, Pingyu Wang, Li Guo , Yonghong Peng (2025). Spatio-temporal interactive reasoning model for multi-group activity recognition.. Pattern Recognit., 159, 111104.
 2.	Pingyu Wang, Xingjian Zheng, Linbo Qing, Bonan Li, Fei Su, Zhicheng Zhao, Honggang Chen (2025). DRFormer: A Discriminable and Reliable Feature Transformer for Person Re-Identification.. IEEE Trans. Inf. Forensics Secur., 20, 980-995.
 3.	Tong Niu, Xiaohai He, Honggang Chen, Linbo Qing, Qizhi Teng (2024). Semantic and geometric information propagation for oriented object detection in aerial images.. Appl. Intell., 54, 2154-2171.
