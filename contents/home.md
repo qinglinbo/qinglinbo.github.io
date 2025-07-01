@@ -23,6 +23,10 @@ University of Agder, Norway (2011)
 #### Research Interests
 Artificial Intelligence and Computer Vision, Multimedia Signal Processing, Image/Video Processing and Communication, Embedded Systems and Mechatronics.
 
+#### Professional Affiliations
+•	Deputy Director, Low-Carbon Smart City Committee, China Society of Technology Economics.\
+•	IEEE Member, IEICE Member, China Electronics Society Member.\
+•	Expert: Sichuan Industrial Internet Field, Chengdu Rural Development, Tianfu Haizhi Program.
 
 
 
